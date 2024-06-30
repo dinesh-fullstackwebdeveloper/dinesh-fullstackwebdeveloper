@@ -11,7 +11,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
+<br>
 ## 🙋‍♂️About Me
 I am a passionate and dedicated Full Stack Web Developer with a strong foundation in frontend and backend development technologies. Currently exploring new opportunities in the tech industry.
 
@@ -21,8 +21,10 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 - 🌐 I enjoy contributing to open source projects in my free time.
 - 💡 I delve into algorithmic puzzles for fun and sharpening my problem-solving skills.
 - ⚡ Fun fact: 🎨 I approach coding like an artist, blending creativity with structured logic.
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25">  Skills
@@ -43,8 +45,10 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 
 ### Tools & Platforms 🛠️
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git & GitHub:** Version control and collaborative development.
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 
 ## 🚀 Languages and Frameworks
@@ -69,7 +73,10 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 <br>
 
 ## <img width="25" height="25" src="https://img.icons8.com/3d-fluency/25/combo-chart.png" alt="combo-chart"/> GitHub Stats
@@ -82,7 +89,10 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-fullstackwebdeveloper&theme=dark&hide_border=false" alt="dinesh-fullstackwebdeveloper" />
 </div>
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ## <img width="25" height="25" src="https://img.icons8.com/3d-fluency/94/user-male-circle.png" alt="user-male-circle"/> Contact 
 
@@ -106,10 +116,9 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="50" style="display:inline-block">
 </div> 
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
-
-
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 
 
