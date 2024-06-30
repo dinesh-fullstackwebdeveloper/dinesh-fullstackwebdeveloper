@@ -12,7 +12,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 <br>
+
 ## 🙋‍♂️About Me
+
 I am a passionate and dedicated Full Stack Web Developer with a strong foundation in frontend and backend development technologies. Currently exploring new opportunities in the tech industry.
 
 - 🌱 I’m currently learning and improving my skills in full stack development.
@@ -28,6 +30,7 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25">  Skills
+
 ### Frontend Development 🌟
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML:** Crafting structured and semantic web pages.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS:** Styling beautiful, responsive layouts.
