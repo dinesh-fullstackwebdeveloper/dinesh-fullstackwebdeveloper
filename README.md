@@ -68,25 +68,51 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
-
+<br>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
 <br>
-<br>
+
+## <img width="25" height="25" src="https://img.icons8.com/3d-fluency/25/combo-chart.png" alt="combo-chart"/> GitHub Stats
+
 <div align="center" style="padding:10px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-fullstackwebdeveloper&show_icons=true&locale=en" alt="dinesh-fullstackwebdeveloper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-fullstackwebdeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="dinesh-fullstackwebdeveloper" />
 </div>
 <br>
 <div align="center" style="padding:10px;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-fullstackwebdeveloper&" alt="dinesh-fullstackwebdeveloper" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-fullstackwebdeveloper&theme=dark&hide_border=false" alt="dinesh-fullstackwebdeveloper" />
 </div>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
 
-## Contact 📬
+## <img width="25" height="25" src="https://img.icons8.com/3d-fluency/94/user-male-circle.png" alt="user-male-circle"/> Contact 
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/dinesh-fullstackwebdeveloper/) - Let's connect and grow our professional networks.<br>
-- <img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/> [Email](mailto:balakrishnandinesh16@gmail.com) - Feel free to reach out via email.<br>
-- <img width="20" height="20" src="https://img.icons8.com/color/48/twitter-circled--v1.png" alt="twitter-circled--v1"/> [Twitter](https://x.com/royal_dinesh_16) - Follow me for updates and tech insights.
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-fullstackwebdeveloper/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balakrishnandinesh16@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/royal_dinesh_16)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="50" style="display:inline-block"> 
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" style="display:inline-block">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" style="display:inline-block">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" style="display:inline-block">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" style="display:inline-block">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" style="display:inline-block">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" style="display:inline-block">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="50" style="display:inline-block">
+</div> 
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></div>
+
+
+
+
+
+
+
+
+
