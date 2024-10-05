@@ -32,22 +32,30 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25">  Skills
 
 ### Frontend Development 🌟
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML:** Crafting structured and semantic web pages.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS:** Styling beautiful, responsive layouts.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **JavaScript:** Bringing interactivity and dynamic behavior to web pages.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React.js:** Building modern, component-based user interfaces.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="20"/>**Bootstrap:** Rapidly designing sleek and responsive websites.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/>**Tailwind CSS:** Creating utility-first, custom-styled applications.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML -** Crafting structured and semantic web pages.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS -** Styling beautiful, responsive layouts.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> **JavaScript -** Bringing interactivity and dynamic behavior to web pages.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React.js -** Building modern, component-based user interfaces.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap -** Rapidly designing sleek and responsive websites.
+<!-- 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/>**Tailwind CSS -** Creating utility-first, custom-styled applications.
+-->
 
 ### Backend Development 💡
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js:** Writing scalable server-side applications.
-- <img width="20" height="20" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>**Express.js:** Building robust APIs and handling server-side logic.
+<!--
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js -** Writing scalable server-side applications.
+- <img width="20" height="20" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>**Express.js -** Building robust APIs and handling server-side logic.
+-->
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="18"/> **Spring Boot -** Capable of building robust backend services and APIs using the Spring Boot framework.
 
 ### Database Management 📊
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> **MongoDB:** Storing and managing data with a NoSQL database.
+<!--
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22"/> **MongoDB -** Storing and managing data with a NoSQL database.
+-->
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="20"/> **MySQL -** Proficient in designing and managing relational databases using MySQL for efficient data handling. 
 
 ### Tools & Platforms 🛠️
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git & GitHub:** Version control and collaborative development.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git & GitHub -** Version control and collaborative development.
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
