@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   </div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm DINESH</h1>
-<h3 align="center"> Passionate Full Stack Developer | Ready to Drive Innovative Web Solutions</h3>
+<h3 align="center"> Passionate Full Stack Developer | HTML5 | CSS3 | JavaScript | Proficient in React.js, Spring Boot, and MySQL Database Management | Ready to Drive Innovative Web Solutions </h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
