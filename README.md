@@ -56,6 +56,9 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 
 ### Tools & Platforms 🛠️
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git & GitHub -** Version control and collaborative development.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  width="20"/> **Postman -** Postman is a popular API testing and development tool that simplifies sending requests, inspecting responses, and automating workflows for RESTful APIs.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="20"/> **SonarQube -** SonarQube is an open-source platform used for continuous inspection of code quality, detecting bugs, vulnerabilities, and code smells in software projects.
+          
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
