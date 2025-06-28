@@ -104,13 +104,14 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 </div>
 <br>
 <br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 
 ![Snake animation](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/snake.svg)
 
-![Pacman contribution graph](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/pacman-contribution-graph.svg)
+<!-- ![Pacman contribution graph](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/pacman-contribution-graph.svg) -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ## <img width="25" height="25" src="https://img.icons8.com/3d-fluency/94/user-male-circle.png" alt="user-male-circle"/> Contact 
 
