@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   </div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm DINESH</h1>
-<h3 align="center"> Passionate Full Stack Developer | HTML5 | CSS3 | JavaScript | J2EE | Proficient in Bootstrap, React.js, Spring Boot, and Oracle MySQL Database Management | Ready to Drive Innovative Web Solutions </h3>
+<h3 align="center"> Passionate Full Stack Developer | HTML5 | CSS3 | JavaScript | J2EE | Proficient in Bootstrap, React.js, Material UI, Spring Boot, and Oracle MySQL Database Management | Ready to Drive Innovative Web Solutions </h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
@@ -28,7 +28,6 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25">  Skills
 
 ### Frontend Development 🌟
@@ -37,16 +36,18 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> **JavaScript -** Bringing interactivity and dynamic behavior to web pages.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React.js -** Building modern, component-based user interfaces.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap -** Rapidly designing sleek and responsive websites.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="20" /> **Material UI -** React component library that implements Google’s Material Design with accessible, themeable, production-ready components.
 <!-- 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/>**Tailwind CSS -** Creating utility-first, custom-styled applications.
 -->
 
 ### Backend Development 💡
-<!--
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="18"/> **Spring Boot -** Capable of building robust backend services and APIs using the Spring Boot framework.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="18" /> **Java -** high-level, object-oriented, platform-independent programming language used for building secure, robust, and scalable applications.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js -** Writing scalable server-side applications.
 - <img width="20" height="20" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>**Express.js -** Building robust APIs and handling server-side logic.
--->
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="18"/> **Spring Boot -** Capable of building robust backend services and APIs using the Spring Boot framework.
+
 
 ### Database Management 📊
 <!--
@@ -105,7 +106,7 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <br>
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/snake.svg) -->
 
 <!-- ![Pacman contribution graph](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/pacman-contribution-graph.svg) -->
 
